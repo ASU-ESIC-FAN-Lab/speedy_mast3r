@@ -1,0 +1,4 @@
+scikit-learn
+flash-attn
+tensorrt
+onnx
