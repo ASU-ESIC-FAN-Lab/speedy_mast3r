@@ -9,15 +9,16 @@ Official implementation of `Speedy MASt3R`, a post-training optimiztion framewor
 </div>
 
 ```bibtex
-@misc{li2025speedymast3r,
-      title={Speedy MASt3R}, 
-      author={Jingxing Li and Yongjae Lee and Abhay Kumar Yadav and Cheng Peng and Rama Chellappa and Deliang Fan},
-      year={2025},
-      eprint={2503.10017},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.10017}, 
-}
+@INPROCEEDINGS{11125757,
+  author={Li, Jingxing and Lee, Yongjae and Fan, Deliang and Yadav, Abhay Kumar and Peng, Cheng and Chellappa, Rama},
+  booktitle={2025 IEEE International Conference on Omni-layer Intelligent Systems (COINS)}, 
+  title={Speedy MASt3R}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/COINS65080.2025.11125757}}
+
 ```
 
 
